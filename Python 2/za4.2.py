@@ -14,7 +14,7 @@ if r>0:
 else:
     print("promien jest nie poprawny")
 
-
+# jakas zmiana
 
 #2 napisz program ktury obliczy obwud kola
 
